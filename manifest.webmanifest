@@ -1,0 +1,30 @@
+{
+  "name": "Kitchen Controller",
+  "short_name": "Kitchen",
+  "description": "Timer multipli per la gestione delle cotture in cucina.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "background_color": "#080a0c",
+  "theme_color": "#080a0c",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
